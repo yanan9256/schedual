@@ -47,3 +47,6 @@ class Logger():
 
 ## 20190918 test
 ## 123
+class test():
+    pass
+
