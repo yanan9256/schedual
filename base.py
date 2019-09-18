@@ -46,7 +46,3 @@ class Logger():
     pass
 
 ## 20190918 test
-## 123
-class test():
-    pass
-
